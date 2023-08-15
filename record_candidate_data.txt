@@ -1,0 +1,1 @@
+{0: {'name': 'John', 'v_mark': 3, 'voter': ['PMM', 'YWK', 'PMM']}, 1: {'name': 'Rachel', 'v_mark': 3, 'voter': ['PMM', 'PMM', 'MIN']}, 2: {'name': 'Ross', 'v_mark': 1, 'voter': ['PMM']}, 3: {'name': 'Phoebe', 'v_mark': 2, 'voter': ['YWK', 'MIN']}, 4: {'name': 'Joey', 'v_mark': 1, 'voter': ['PMM']}}

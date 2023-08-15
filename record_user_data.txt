@@ -1,0 +1,1 @@
+{0: {'email': 'phone@gmail.com', 'password': 'phone', 'name': 'PMM', 'address': 'MDY', 'age': '25', 'money': 340}, 1: {'email': 'waddy@gmail.com', 'password': 'waddy', 'name': 'YWK', 'address': '20', 'age': '20', 'money': 280}, 2: {'email': 'min@gmail.com', 'password': 'min', 'name': 'MIN', 'address': 'YGN', 'age': '23', 'money': 380}}

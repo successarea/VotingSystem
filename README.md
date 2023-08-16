@@ -1,4 +1,4 @@
-# The Voting System Project is a Python application that enables users to participate in a voting process by casting votes for candidates.
+## The Voting System Project is a Python application that enables users to participate in a voting process by casting votes for candidates.
 ## This project includes features for user account management, email and password checking, and calculating voting charges.
 ### Features
 - User Registration: Users can create accounts using their email addresses and passwords.
